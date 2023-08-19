@@ -77,9 +77,9 @@ social:
 analytics:
   provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
-    tracking_id          : 
+    tracking_id          : "G-ETZN97YVKW"
   goatcounter:
-    code		 : jayrobwilliams
+    code		 : 
 
 
 # Site Author
@@ -115,7 +115,7 @@ author:
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :  "viniciusccicero"
   vine             :
   weibo            :
   xing             :
