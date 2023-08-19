@@ -59,7 +59,7 @@ yandex_site_verification :
 mastodon:
   username               : 
 twitter:
-  username               : "twitter.com/viniciusccicero"
+  username               : "viniciusccicero"
 facebook:
   username               :
   app_id                 :
@@ -75,7 +75,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom", "goatcounter"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
     tracking_id          : "G-ETZN97YVKW"
   goatcounter:
