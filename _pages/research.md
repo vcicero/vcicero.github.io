@@ -3,38 +3,35 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-header:
-  og_image: "research/ecdf.png"
 ---
 
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
+<span style="font-size:1.25em; font-weight:bold;">Publications</span>
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+Functional distribution of income as a determinant of importing behavior: An empirical analysis (joint with Gilberto Tadeu Lima), *Structural Change and Economic Dynamics* 65 (2023), 393–405. [Published Version](https://doi.org/10.1016/j.strueco.2023.03.008){: .btn--research} [WP](/files/pdf/research/wp_cicerolima.pdf){: .btn--research} [Online Appendix](/files/pdf/research/oappendix_cicerolima.pdf){: .btn--research}
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+> We examine the dynamic impact of the functional distribution of income on the demand for imports in developed and developing countries. Drawing upon a motivating accounting structure suggesting a potentially causal effect of the functional distribution of income in an extended version of a standard import function, we find evidence that a fall in the wage share has a statistically significant positive (negative) impact on the volume of imports in developing (developed) countries and the entire sample of countries. Therefore, the neglect of such income distribution effects in import demand functions represents the omission of both an empirically relevant variable and a further theoretically significant structural channel through which the functional distribution of income affects output growth. A key implication is that the impact of the functional distribution of income on the demand for imports has to be considered in growth empirics based on either a binding balance-of-payments constraint in the Kaldor–Thirlwall tradition or a demand-led regime approach or a competitive real exchange rate.
 
-<nbsp>
 
-{% include base_path %}
+<span style="font-size:1.25em; font-weight:bold;">Working Papers</span>
 
-{% assign ordered_pages = site.research | sort:"order_number" %}
+Trade Liberalization and Mortality Rates: Evidence of Pro-Cyclical Mortality from Brazil (joint with Lucas Dias and Sammy Zahran) [PDF](/files/pdf/research/cdz_wp.pdf){: .btn--research} 
 
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
+> We trace the evolution of all-cause mortality rates in Brazilian regions with varying exposure to trade-induced economic shocks before, during, and after liberalization reforms in the 1990s. We find consistent evidence of pro-cyclical mortality, with areas more exposed to tariff reductions experiencing larger declines in mortality across varying time horizons. The observed decline in mortality rates is evident across sex, age groups, and for both internal and external causes of mortality. We falsify the observed relationship between mortality and tariff reductions with analyses of causes of death that are plausibly unrelated to economic activity. With respect to proximate mechanisms involved in our finding of pro-cyclical mortality, we show that healthcare infrastructure expanded in local economies more affected by the trade-induced economic shock. We also find supporting evidence for the idea that pro-cyclical mortality is partially caused by a decrease in transport and non-transport-related accidents. Overall, our findings highlight an underappreciated dimension of trade policy effects, namely public health.
+
+
+<span style="font-size:1.25em; font-weight:bold;"> Works in Progress</span>
+
+ Institutional changes, aggregate demand, income shares and wealth distribution: a model of secular stagnation (joint with Daniele Tavani)
+
+> This paper sheds light on the factors driving economic stagnation and inequality in the US over recent decades. We draw upon the post-Keynesian tradition to develop a demand-driven model with joint adjustment of functional distribution and capacity utilization in the short run and explore the dynamics of wealth accumulation and growth in the long run. We provide a theoretical-formal explanation for some stylized facts of the US economy in the last decades, such as the reduction of the wage share, the accumulation of wealth in the upper percentiles of the distribution, the fall in the growth rate of labor productivity, and the reduction of the income-capital ratio. Essentially, institutional changes that weakened workers' bargaining power and strengthened firms' market power - measured, for instance, by the fall in unionization rates and increase in aggregate markups - have reduced the labor share in income. Although this may have initially boosted short-term economic activity and potentially growth in a profit-led demand regime, the long-term effects are worrying. In particular, a lower wage share negatively impacts labor productivity growth, and in turn, slows the growth rate of the economy in the long run. To achieve balanced growth, the income-capital ratio, proxied by the rate of capacity utilization, must decrease in the long run. We also show an inverse relationship between the wage share and the top wealth share, as well as between the top wealth share and the rate of capacity utilization. Our evidence points to the pressing of policies that counterbalance the institutional changes of past decades to escape the process of stagnation and inequality.
+
+Illegal markets, resource exploitation, and working conditions: evidence from mahogany trade in the Brazilian Amazon (joint with Lucas Dias)
+
+Productivity shocks, resource boom, and local-level voting behavior: evidence from Brazil
+
+Krugman meets Thirlwall: the BoP-constrained growth model revisited
+
+
+
+
+
