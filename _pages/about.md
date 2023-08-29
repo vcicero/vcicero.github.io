@@ -14,3 +14,5 @@ My primary research interests focus on international trade and economic developm
 *Structural Change and Economic Dynamics* and you can find more information about ongoing projects in the [research](research) page.
 
 Teaching has been a fundamental part of my life in the previous years. You can find more information about my teaching experience, both as an instructor and a teaching assitant, at Colorado State University and previously at the University of São Paulo in the [teaching](teaching) page.
+
+For office hours in the Fall semester, please access this [page](https://cal.com/vcicero).
