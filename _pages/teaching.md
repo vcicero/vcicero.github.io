@@ -35,7 +35,7 @@ I have taught undergraduate courses on the economics of international finance an
     - Topics on Economic Development (Instructors: Sergio Almeida and Jose Chiappin)
     - Mathematical Economics: Dynamic Optimization (Instructor: Jose Chiappin)
 - Undergraduate
-    - Macroconomics V
+    - Macroeconomics V
     - Econometrics III
     - Macroeconomics II
 
