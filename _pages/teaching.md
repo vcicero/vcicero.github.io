@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-I have taught undergraduate courses on the economics of international finance and microeconomics. I am currently teaching a graduate course in heterodox approaches to economics. I also served as a teaching assistant for graduate-level and introductory economics courses at CSU. In addition, I was a teaching assistant for several undergraduate and graduate courses at the University of São Paulo.
+I have taught undergraduate courses on the economics of international finance and microeconomics and a graduate course (PhD level) in heterodox approaches to economics. I am currently teaching intermediate microeconomics and history of economic institutions and thought for undergraduate students. I also served as a teaching assistant for graduate-level and introductory economics courses at CSU. In addition, I was a teaching assistant for several undergraduate and graduate courses at the University of São Paulo.
 
 # Colorado State University
 
@@ -12,8 +12,10 @@ I have taught undergraduate courses on the economics of international finance an
     - Econ 705: Heterdox Approaches to Economics (Fall 2023)
     - [Syllabus](/files/pdf/teaching/ECON705_Fall23_Syllabus_Cicero.pdf)   
 - Undergraduate
-    - Econ 306: Intermediate Microeconomics (Fall 2023)
-    - [Syllabus](/files/pdf/teaching/ECON306_Fall23_Syllabus_Cicero.pdf)
+    - Econ 372: History of Economic Institutions and Thought (Spring 2024)
+    - [Syllabus](/files/pdf/teaching/ECON372_Spring24_Syllabus_Cicero.pdf)
+    - Econ 306: Intermediate Microeconomics (Fall 2023, Spring 2024)
+    - [Syllabus](/files/pdf/teaching/ECON306_Spring24_Syllabus_Cicero.pdf)
     - Econ 442: Economics of International Finance and Policy (Summer 2023)
     - [Syllabus](/files/pdf/teaching/ECON442_SM23_Cicero_Syllabus.pdf)
 
