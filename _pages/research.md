@@ -35,8 +35,6 @@ Resource boom, export composition, concentration, and regional growth: insights 
 
 Exogenous economic shocks and incumbents' electoral fortunes: evidence from Brazilian mayoral elections
 
-Donkey business: trade, resource exploitation and violence in a contestable market (with Lucas Corrêa-Dias)
-
 Krugman meets Thirlwall: the BoP-constrained growth model revisited
 
 
