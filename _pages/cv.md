@@ -9,4 +9,4 @@ redirect_from:
 
 <iframe src="/files/pdf/Cicero CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my CV [here](/files/pdf/Cicero_CV.pdf). Verification [here](/files/html/googlebd7f58b54efd6a15.html)
+You can download a PDF copy of my CV [here](/files/pdf/Cicero_CV.pdf).
