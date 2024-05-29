@@ -31,16 +31,16 @@ Fiscal Consolidation, Crowding Out, and the Social Safety Net: Evidence from the
 
 > In mid-2011 political debate on the appropriate level of federal spending and growing federal deficits climaxed with a showdown over raising the debt ceiling. This led to the Budget Control Act of 2011, which resulted in a steep decline in federal discretionary spending. In this paper, we leverage the institutional details from the Budget Control Act of 2011 to examine how the contraction in federal procurement contracts with private-sector firms impacted the social safety net. Our results show that every dollar reduction of federal procurement spending was offset by a 0.06 increase in unemployment insurance compensation and less than 0.01 increase in food assistance. We also show that the local labor market effects of consolidation depend on the sectors receiving federal dollars. Notably, reductions in procurement in industries with high labor intensity resulted in more pronounced local expansions in the social safety net. Finally, we examine how individuals in different demographic groups receive social safety net program benefits following a local economic shock. For instance, younger people and less educated individuals were more likely to receive food assistance, while none of our demographic groups saw an increase in disability. These findings have implications both for understanding regional economic development and for improving regional resiliency to negative demand shocks.
 
-Donkey business: trade, resource exploitation, crime and violence in a contestable market (with [Lucas Corrêa-Dias](https://lucasccdias.github.io/))  [PDF](https://osf.io/preprints/osf/qreum){: .btn--research}
+Donkey business: trade, resource exploitation, and crime (with [Lucas Corrêa-Dias](https://lucasccdias.github.io/))  [PDF](https://osf.io/preprints/osf/qreum){: .btn--research}
 
 >The growing demand for *ejiao*, a traditional Chinese medicine product derived from donkey hides, has sparked a global trade that profoundly impacts donkey populations and local economies in low and middle-income countries. In response to the pressing issue of burgeoning populations of stray and abandoned donkeys, Brazil implemented regulatory measures governing the export of these animals to China in 2017. This paper examines the intricate relationship between regulation of a natural resource-based contestable market -- in which property rights are not well-defined -- and local crime rates, focusing on the donkey hide trade in Brazil. Employing a quasi-experimental research design, we leverage the timing of the regulatory measures alongside variations in donkey occurrences per inhabitant across Brazilian municipalities to provide compelling evidence that the surge in *ejiao* demand has led to an increase in crime and violence within Brazil. These findings underscore the critical importance of nuanced market regulation to mitigate potential social costs in markets lacking well-defined property rights. Furthermore, they highlight the urgent need for robust monitoring and enforcement frameworks to address pressing issues such as the predatory exploitation of donkey populations on a global scale.
 
 
 <span style="font-size:1.25em; font-weight:bold;"> Work in Progress</span>
 
-Institutional changes, aggregate demand, income and wealth distribution: a model of secular stagnation (with [Daniele Tavani](https://www.danieletavani.com/))
+Institutional changes, effective demand and inequality:\\ a structuralist model of secular stagnation (with [Daniele Tavani](https://www.danieletavani.com/))
 
-Resource boom, export composition, concentration, and regional growth: insights from Brazilian local economies
+Resource boom, export composition, concentration, and sophistication: evidence from Brazilian local economies
 
 Exogenous economic shocks and incumbents' electoral fortunes: evidence from Brazilian mayoral elections
 
