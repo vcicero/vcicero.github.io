@@ -2,6 +2,15 @@
 permalink: /teaching/
 title: "Teaching"
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ETZN97YVKW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ETZN97YVKW');
+</script>
 
 I have taught undergraduate courses on the economics of international finance and microeconomics and a graduate course (PhD level) in heterodox approaches to economics. I am currently teaching intermediate microeconomics and history of economic institutions and thought for undergraduate students. I also served as a teaching assistant for graduate-level and introductory economics courses at CSU. In addition, I was a teaching assistant for several undergraduate and graduate courses at the University of São Paulo.
 
