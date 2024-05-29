@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ETZN97YVKW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ETZN97YVKW');
+</script>
+
 Welcome to my website. I am a Ph.D. candidate in the [Department of Economics](https://economics.colostate.edu/) at Colorado State University. Before coming to CSU, I received my masters' degree from the [Department of Economics](https://www.fea.usp.br/economia) at the University of São Paulo (USP) in 2020, where I also got my bachelors' degree in 2018. 
 
 My primary research interests focus on international trade and economic development. My academic work has been published in
