@@ -17,6 +17,7 @@ redirect_from:
 
   gtag('config', 'G-ETZN97YVKW');
 </script>
+<script>google-site-verification=bKEzMH2xFq-SywbK9y8bpG7WNI66nh2GeDoxAJ80Oho</script>
 
 Welcome to my website. I am a Ph.D. candidate in the [Department of Economics](https://economics.colostate.edu/) at Colorado State University. Before coming to CSU, I received my masters' degree from the [Department of Economics](https://www.fea.usp.br/economia) at the University of São Paulo (USP) in 2020, where I also got my bachelors' degree in 2018. 
 
