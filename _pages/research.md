@@ -14,12 +14,6 @@ author_profile: true
   gtag('config', 'G-ETZN97YVKW');
 </script>
 
-<span style="font-size:1.25em; font-weight:bold;">Peer-Reviewed Publications</span>
-
-Functional distribution of income as a determinant of importing behavior: An empirical analysis (with Gilberto Tadeu Lima), *Structural Change and Economic Dynamics* 65 (2023), 393–405. [Published Version](https://doi.org/10.1016/j.strueco.2023.03.008){: .btn--research} [WP Version](/files/pdf/research/wp_cicerolima.pdf){: .btn--research} [Online Appendix](/files/pdf/research/oappendix_cicerolima.pdf){: .btn--research}
-
-> We examine the dynamic impact of the functional distribution of income on the demand for imports in developed and developing countries. Drawing upon a motivating accounting structure suggesting a potentially causal effect of the functional distribution of income in an extended version of a standard import function, we find evidence that a fall in the wage share has a statistically significant positive (negative) impact on the volume of imports in developing (developed) countries and the entire sample of countries. Therefore, the neglect of such income distribution effects in import demand functions represents the omission of both an empirically relevant variable and a further theoretically significant structural channel through which the functional distribution of income affects output growth. A key implication is that the impact of the functional distribution of income on the demand for imports has to be considered in growth empirics based on either a binding balance-of-payments constraint in the Kaldor–Thirlwall tradition or a demand-led regime approach or a competitive real exchange rate.
-
 <span style="font-size:1.25em; font-weight:bold;">Working Papers</span>
 
 Trade Liberalization and Mortality Rates: Evidence of Pro-Cyclical Mortality from Brazil (with [Lucas Corrêa-Dias](https://lucasccdias.github.io/) and Sammy Zahran). Revised and Resubmitted to *Health Economics* [PDF](/files/pdf/research/manuscript_Trade_Mortality_CDZ_wp.pdf){: .btn--research}
@@ -38,6 +32,9 @@ Institutional changes, effective demand and inequality: a structuralist model of
 
 >This paper addresses the factors driving economic stagnation and inequality in the US over recent decades. We study a demand-driven model with joint adjustment of the functional distribution and capacity utilization in the short run, and explore the dynamics of wealth accumulation and labor productivity growth in the long run. Our analysis formally explains several stylized facts observed in the US economy: the decline in labor share of income, the increase in the top 1% wealth share, the slowdown in labor productivity growth, and the reduction in the income-capital ratio. Institutional changes that weakened workers' bargaining power or strengthened firms' market power have reduced the labor share of income. While these changes may have initially stimulated short-term economic activity and growth within a profit-led demand regime, their long-term effects are concerning. In particular, a lower labor share negatively impacts labor productivity growth and, in turn, slows down the growth rate of the economy in the long run. To achieve balanced growth, the income-capital ratio, proxied by the rate of capacity utilization, must eventually decrease. The long-run behavior of our model is captured by a simple 2D dynamical system analyzing the capitalist wealth share and the labor share. Our findings demonstrate that an institutionally driven decline in the labor share exacerbates wealth inequality over time. These results point to the importance of policies counterbalancing the labor-crushing developments of the past decades to escape the process of stagnation and inequality.
 
+<span style="font-size:1.25em; font-weight:bold;">Peer-Reviewed Publications</span>
+
+Functional distribution of income as a determinant of importing behavior: An empirical analysis (with Gilberto Tadeu Lima), *Structural Change and Economic Dynamics* 65 (2023), 393–405. [Published Version](https://doi.org/10.1016/j.strueco.2023.03.008){: .btn--research} [WP Version](/files/pdf/research/wp_cicerolima.pdf){: .btn--research} [Online Appendix](/files/pdf/research/oappendix_cicerolima.pdf){: .btn--research}
 
 <span style="font-size:1.25em; font-weight:bold;"> Work in Progress</span>
 
