@@ -42,6 +42,12 @@ Resource boom, export composition, concentration, and sophistication: evidence f
 
 Exogenous economic shocks and incumbents' electoral fortunes: evidence from Brazilian mayoral elections
 
+Regional export composition and economic growth: the multi-regional Thirlwall's Law
+
+Tip Credit effects on employment, earnings, and establishments (with Sammy Zahran, David Mushinski, and [Sayorn Chin](https://schinlfc.github.io/))
+
+Size matters: wealth accumulation and conflict in a Classical model (with Gilberto Tadeu Lima)
+
 Krugman meets Thirlwall: the BoP-constrained growth model revisited
 
 
