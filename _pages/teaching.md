@@ -21,7 +21,9 @@ I have taught undergraduate courses on the economics of international finance an
     - Econ 705: Heterdox Approaches to Economics (Fall 2023)
     - [Syllabus](/files/pdf/teaching/ECON705_Fall23_Syllabus_Cicero.pdf)   
 - Undergraduate
-    - Econ 372: History of Economic Institutions and Thought (Spring 2024)
+    - Econ 440: Economics of International Trade and Policy (Summer 2024, Fall 2024)
+    - [Syllabus](/files/pdf/teaching/ECON440_Fall24_Syllabus_Cicero.pdf)
+    - Econ 372: History of Economic Institutions and Thought (Spring 2024, Fall 2024)
     - [Syllabus](/files/pdf/teaching/ECON372_Spring24_Syllabus_Cicero.pdf)
     - Econ 306: Intermediate Microeconomics (Fall 2023, Spring 2024)
     - [Syllabus](/files/pdf/teaching/ECON306_Spring24_Syllabus_Cicero.pdf)
