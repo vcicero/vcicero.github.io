@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="{{ site.url }}/files/pdf/CVCicero.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="{{ site.url }}/files/pdf/VCiceroCV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 
-You can download a PDF copy of my CV [here](/files/pdf/CVCicero.pdf).
+You can download a PDF copy of my CV [here](/files/pdf/VCiceroCV.pdf).
