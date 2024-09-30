@@ -12,7 +12,7 @@ title: "Teaching"
   gtag('config', 'G-ETZN97YVKW');
 </script>
 
-I have taught undergraduate courses on the economics of international finance and microeconomics and a graduate course (PhD level) in heterodox approaches to economics. I am currently teaching intermediate microeconomics and history of economic institutions and thought for undergraduate students. I also served as a teaching assistant for graduate-level and introductory economics courses at CSU. In addition, I was a teaching assistant for several undergraduate and graduate courses at the University of São Paulo.
+I have served as the instructor of record for several undergraduate courses, including international economics and finance, intermediate microeconomics, and the history of economic thought, as well as a *PhD-level course* on heterodox approaches to economics. Currently, I am teaching international trade and the history of economic thought for undergraduate students. Additionally, I have worked as a teaching assistant for both graduate and introductory economics courses at CSU, and for various undergraduate and graduate courses at the University of São Paulo.
 
 # Colorado State University
 
