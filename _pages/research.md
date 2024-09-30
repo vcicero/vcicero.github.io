@@ -50,7 +50,7 @@ Tip Credit effects on employment, earnings, and establishments (with Sammy Zahra
 
 Size matters: wealth accumulation and conflict in a Classical model (with Gilberto Tadeu Lima)
 
-Krugman meets Thirlwall: the BoP-constrained growth model revisited
+Trade liberalization and income inequality: evidence from Brazil (with Sammy Zahran and [Daniele Tavani](https://www.danieletavani.com/))
 
 
 
