@@ -12,7 +12,7 @@ title: "Teaching"
   gtag('config', 'G-ETZN97YVKW');
 </script>
 
-I have served as the instructor of record for several undergraduate courses, including international economics and finance, intermediate microeconomics, and the history of economic thought, as well as a *PhD-level course* on heterodox approaches to economics. Currently, I am teaching international trade and the history of economic thought for undergraduate students. Additionally, I have worked as a teaching assistant for both graduate and introductory economics courses at CSU, and for various undergraduate and graduate courses at the University of São Paulo.
+I have served as the instructor of record for several undergraduate courses, including international economics and finance, intermediate microeconomics, and the history of economic thought, as well as a *PhD-level course* on heterodox approaches to economics. Currently, I am teaching intermediate microeconomics and the history of economic thought for undergraduate students. Additionally, I have worked as a teaching assistant for both graduate and introductory economics courses at CSU, and for various undergraduate and graduate courses at the University of São Paulo.
 
 # Colorado State University
 
@@ -23,9 +23,9 @@ I have served as the instructor of record for several undergraduate courses, inc
 - Undergraduate
     - Econ 440: Economics of International Trade and Policy (Summer 2024, Fall 2024)
     - [Syllabus](/files/pdf/teaching/ECON440_Fall24_Syllabus_Cicero.pdf)
-    - Econ 372: History of Economic Institutions and Thought (Spring 2024, Fall 2024)
+    - Econ 372: History of Economic Institutions and Thought (Spring 2024, Fall 2024, Spring 2025)
     - [Syllabus](/files/pdf/teaching/ECON372_Spring24_Syllabus_Cicero.pdf)
-    - Econ 306: Intermediate Microeconomics (Fall 2023, Spring 2024)
+    - Econ 306: Intermediate Microeconomics (Fall 2023, Spring 2024, Spring 2025)
     - [Syllabus](/files/pdf/teaching/ECON306_Spring24_Syllabus_Cicero.pdf)
     - Econ 442: Economics of International Finance and Policy (Summer 2023)
     - [Syllabus](/files/pdf/teaching/ECON442_SM23_Cicero_Syllabus.pdf)
