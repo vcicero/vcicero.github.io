@@ -27,4 +27,4 @@ My primary research interests focus on international trade and economic developm
 
 Teaching has played a central role in my life over the past few years. You can find details about my teaching experience, both as an instructor and a teaching assistant, at Colorado State University and previously at the University of São Paulo, on the [teaching](teaching) page.
 
-For office hours in the Fall semester, please access this [page](https://cal.com/vcicero).
+For office hours in the Spring semester, please access this [page](https://cal.com/vcicero).
