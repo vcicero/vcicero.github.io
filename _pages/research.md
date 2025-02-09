@@ -34,7 +34,7 @@ Institutional changes, effective demand, and inequality: a structuralist model o
 
 <span style="font-size:1.25em; font-weight:bold;"> Publications and Accepted </span>
 
-Trade Liberalization and Mortality Rates: Evidence of Pro-Cyclical Mortality from Brazil (with [Lucas Corrêa-Dias](https://lucasccdias.github.io/) and Sammy Zahran). 34 (2025), 392-414*Health Economics* [Published Version](https://doi.org/10.1002/hec.4915){: .btn--research} [WP Version](/files/pdf/research/manuscript_Trade_Mortality_CDZ_wp.pdf){: .btn--research}
+Trade Liberalization and Mortality Rates: Evidence of Pro-Cyclical Mortality from Brazil (with [Lucas Corrêa-Dias](https://lucasccdias.github.io/) and Sammy Zahran), *Health Economics* 34:3 (2025), 392-414. [Published Version](https://doi.org/10.1002/hec.4915){: .btn--research} [WP Version](/files/pdf/research/manuscript_Trade_Mortality_CDZ_wp.pdf){: .btn--research}
 
 Functional distribution of income as a determinant of importing behavior: An empirical analysis (with Gilberto Tadeu Lima), *Structural Change and Economic Dynamics* 65 (2023), 393–405. [Published Version](https://doi.org/10.1016/j.strueco.2023.03.008){: .btn--research} [WP Version](/files/pdf/research/wp_cicerolima.pdf){: .btn--research} [Online Appendix](/files/pdf/research/oappendix_cicerolima.pdf){: .btn--research}
 
