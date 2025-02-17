@@ -19,7 +19,7 @@ redirect_from:
 </script>
 <script>google-site-verification=bKEzMH2xFq-SywbK9y8bpG7WNI66nh2GeDoxAJ80Oho</script>
 
-Welcome to my website. I am a Ph.D. candidate in the [Department of Economics](https://economics.colostate.edu/) at Colorado State University and I am currently on the academic job market for 2024-2025.
+Welcome to my website. I am a Ph.D. candidate in the [Department of Economics](https://economics.colostate.edu/) at Colorado State University. I will be joining Denison University as an Assistant Professor in August 2025.
 
 Before coming to CSU, I earned my master’s degree from the [Department of Economics](https://www.fea.usp.br/economia) at the University of São Paulo (USP) in 2020, where I also completed my bachelor’s degree in 2018.
 
