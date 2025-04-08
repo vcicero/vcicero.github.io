@@ -24,11 +24,11 @@ Donkey business: trade, resource exploitation, and crime (with [Lucas Corrêa-Di
 
 >This paper examines the relationship between the institutionalization of a renewable resource market with poorly defined property rights and local crime rates. We focus on the regulation of the donkey hide trade in Brazil, driven by foreign demand for *ejiao*, a Traditional Chinese Medicine product. Using a quasi-experimental research design, we leverage the timing of regulatory measures alongside spatial variations in donkey populations across Brazilian municipalities to provide causal evidence that the slaughtering of free-roaming donkeys led to an increase in crime and violence. We further explore the role of market illegality, finding that the impact on crime was twice as large during periods when the trade was illegal in Brazil. Our results carry important policy implications for developing countries grappling with resource booms and weak property rights. These findings emphasize the need for effective regulation, robust monitoring, and enforcement mechanisms to mitigate the social costs associated with natural resource exploitation.
 
-Declining Federal Spending and the Social Safety Net: Evidence from the Budget Control Act of 2011 (with [Tim Komarek](https://sites.google.com/site/timkomarek/)) Under review [PDF](/files/pdf/research/bca_kc.pdf){:.btn--research}
+Declining Federal Spending and the Social Safety Net: Evidence from the Budget Control Act of 2011 (with [Tim Komarek](https://sites.google.com/site/timkomarek/)) Submitted [PDF](/files/pdf/research/bca_kc.pdf){:.btn--research}
 
 > In 2011 political debate on federal spending and growing federal deficits climaxed with a showdown over raising the debt ceiling. This led to the Budget Control Act of 2011, which resulted in a steep decline in federal discretionary spending. We leverage the institutional details from the Budget Control Act to examine how the contraction in federal procurement contracts with private-sector firms impacted individuals and the social safety net. Our results show procurement reductions in industries with high labor intensity resulted in more pronounced local social safety net expansions. We also examine heterogeneity by demographic groups.
 
-How much is fiscal consolidation offset by increases in social safety net spending? Evidence from the 2011 Budget Control Act (with [Tim Komarek](https://sites.google.com/site/timkomarek/) and Kendall Stephenson) Under review [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915048){:.btn--research}
+How much is fiscal consolidation offset by increases in social safety net spending? Evidence from the 2011 Budget Control Act (with [Tim Komarek](https://sites.google.com/site/timkomarek/) and Kendall Stephenson) Revision requested at *The B.E. Journal of Economic Analysis and Policy* [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915048){:.btn--research}
 
 > This paper investigates how much reductions in federal procurement spending from the Budget Control Act of 2011 are offset or “crowded out” by increases in spending on social safety net programs. We use a shift-share instrumental variables approach and find that approximately 7% of the cuts in federal spending are offset by social safety net transfers. Specifically, for every dollar reduced in federal procurement, there is an associated increase of 0.06 in unemployment insurance payments and less than 0.01 in SNAP benefits. Furthermore, our analysis reveals that these effects vary significantly with the type of spending that is cut. These findings underscore the broader implications of fiscal adjustments, highlighting the potential consequences for state policies and employer costs.
 
@@ -44,7 +44,7 @@ Functional distribution of income as a determinant of importing behavior: An emp
 
 <span style="font-size:1.25em; font-weight:bold;"> Selected Works in Progress</span>
 
-Exogenous economic shocks and incumbents' electoral fortunes: evidence from Brazilian mayoral elections
+Exogenous economic shocks and incumbents' electoral fortunes: evidence from Brazilian mayoral elections (with [Iasmin Goes](https://www.iasmingoes.com/))
 
 Regional export composition and economic growth: the multi-regional Thirlwall's Law
 
@@ -53,6 +53,8 @@ Tip Credit effects on employment, earnings, and establishments (with Sammy Zahra
 Size matters: wealth accumulation and conflict in a Classical model (with Gilberto Tadeu Lima)
 
 Trade liberalization and income inequality: evidence from Brazil (with Sammy Zahran and [Daniele Tavani](https://www.danieletavani.com/))
+
+Demand shocks, income distribution, and importing behavior: evidence from Brazil (with [Laura Heras-Recuero](https://lauraherasrec.github.io/))
 
 
 
