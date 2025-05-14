@@ -23,7 +23,7 @@ I am an incoming Assistant Professor of [Global Commerce](https://denison.edu/ac
 
 I hold a Ph.D. from the [Department of Economics](https://economics.colostate.edu/) at Colorado State University. Before that, I earned my master’s degree from the [Department of Economics](https://www.fea.usp.br/economia) at the University of São Paulo (USP), where I also completed my bachelor’s degree.  
 
-My research focuses on international trade and economic development, combining applied microeconomic methods with macroeconomic theory to explore policy-relevant questions. My current work examines the effects of trade shocks on various development outcomes, including structural change, mortality, and crime. My academic work has been published in *Health Economics* and *Structural Change and Economic Dynamics*, and you can find more information about my ongoing projects on the [research](research) page.  
+My research focuses on international trade and economic development, combining applied microeconomic methods with macroeconomic theory to explore policy-relevant questions. My current work examines the effects of trade shocks on various development outcomes, including structural change, mortality, and crime. My academic work has been published in *Health Economics*, *Metroeconomica*, and *Structural Change and Economic Dynamics*, and you can find more information about my ongoing projects on the [research](research) page.  
 
 Teaching has been a central part of my academic journey. You can find more about my experience as both an instructor and a teaching assistant on the [teaching](teaching) page.  
 
