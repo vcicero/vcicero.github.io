@@ -16,7 +16,7 @@ author_profile: true
 
 <span style="font-size:1.25em; font-weight:bold;">Working Papers</span>
 
-Resource boom, export composition, concentration, and sophistication: evidence from Brazilian local economies. Job Market Paper. Submitted [PDF](/files/pdf/research/RB_JMP_Cicero_draft.pdf){: .btn--research}
+Resource boom, export composition, concentration, and sophistication: evidence from Brazilian local economies. Job Market Paper. Under review [PDF](/files/pdf/research/RB_JMP_Cicero_draft.pdf){: .btn--research}
 
 > This paper investigates the impact of resource booms on export value, concentration, composition, and sophistication in resource-rich developing economies. Using a shift-share instrument that leverages heterogeneous exposure to Chinese demand after China’s 2001 WTO accession and the *ex-ante* composition of export baskets, I examine the causal effects on export baskets and sectoral employment of Brazilian local economies. The findings reveal increased export values and concentration in more exposed regions, with a shift from resource-based manufactures to primary products and declining export sophistication. Despite wage growth in primary and service sectors, primary employment remained stable while manufacturing jobs contracted, resembling a Dutch disease pattern. These results underscore the trade-offs of resource booms, where short-term gains in export value and sectoral wages may be offset by long-term development challenges. Given Brazil's similarities to other commodity exporters, these findings may indicate similar trends emerging across developing economies.
 
