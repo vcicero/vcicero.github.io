@@ -32,6 +32,10 @@ How much is fiscal consolidation offset by increases in social safety net spendi
 
 > This paper investigates how much reductions in federal procurement spending from the Budget Control Act of 2011 are offset or “crowded out” by increases in spending on social safety net programs. We use a shift-share instrumental variables approach and find that approximately 7% of the cuts in federal spending are offset by social safety net transfers. Specifically, for every dollar reduced in federal procurement, there is an associated increase of 0.06 in unemployment insurance payments and less than 0.01 in SNAP benefits. Furthermore, our analysis reveals that these effects vary significantly with the type of spending that is cut. These findings underscore the broader implications of fiscal adjustments, highlighting the potential consequences for state policies and employer costs.
 
+Great Expectations: Electoral Accountability After Economic Shocks (with [Iasmin Goes](https://www.iasmingoes.com/)) [PDF](https://osf.io/preprints/osf/kvwph_v1){: .btn--research}
+
+> This paper examines how exogenous economic shocks shape electoral accountability in local elections. We develop a theoretical framework in which a sudden increase in household income temporarily boosts support for incumbents, even when the shock is unrelated to their actions. As voters gradually update their expectations, however, the incumbent’s advantage fades. We test the model’s predictions using Brazil’s 2003 legalization of genetically engineered soybean seeds, a policy that triggered uneven productivity gains across municipalities due to variation in climate and soil. Leveraging this quasi-natural experiment over the 2000–2020 period, we show that incumbent mayors were more likely to be reelected in municipalities with larger gains in soy productivity — but this advantage was short-lived. Our findings highlight how misattribution and voter learning jointly shape the political consequences of economic change in developing countries, where structural reliance on commodity exports increases vulnerability to external shocks.
+
 <span style="font-size:1.25em; font-weight:bold;"> Publications and Accepted </span>
 
 Institutional changes, effective demand, and inequality: a structuralist model of secular stagnation (with [Daniele Tavani](https://www.danieletavani.com/)). Forthcoming at *Metroeconomica*. [Published Version](http://doi.org/10.1111/meca.12499){: .btn--research} [WP Version](/files/pdf/research/SecularStagnation_CT_revised.pdf){: .btn--research}
@@ -41,8 +45,6 @@ Trade liberalization and mortality rates: evidence of pro-cyclical mortality fro
 Functional distribution of income as a determinant of importing behavior: An empirical analysis (with Gilberto Tadeu Lima), *Structural Change and Economic Dynamics* 65 (2023), 393–405. [Published Version](https://doi.org/10.1016/j.strueco.2023.03.008){: .btn--research} [WP Version](/files/pdf/research/wp_cicerolima.pdf){: .btn--research} [Online Appendix](/files/pdf/research/oappendix_cicerolima.pdf){: .btn--research}
 
 <span style="font-size:1.25em; font-weight:bold;"> Selected Works in Progress</span>
-
-Exogenous economic shocks and incumbents' electoral fortunes: evidence from Brazilian mayoral elections (with [Iasmin Goes](https://www.iasmingoes.com/))
 
 Regional export composition and economic growth: the multi-regional Thirlwall's Law
 
