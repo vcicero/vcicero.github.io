@@ -19,12 +19,8 @@ redirect_from:
 </script>
 <script>google-site-verification=bKEzMH2xFq-SywbK9y8bpG7WNI66nh2GeDoxAJ80Oho</script>
 
-I am an incoming Assistant Professor of [Global Commerce](https://denison.edu/academics/global-commerce) at Denison University, joining in August 2025.  
+I am an Assistant Professor of [Global Commerce](https://denison.edu/academics/global-commerce) at Denison University. I received my Ph.D. in Economics from [Colorado State University](https://economics.colostate.edu/) and hold both a master's and bachelor's degree from the [University of São Paulo (USP)](https://www.fea.usp.br/economia), my alma mater.  
 
-I hold a Ph.D. from the [Department of Economics](https://economics.colostate.edu/) at Colorado State University. Before that, I earned my master’s degree from the [Department of Economics](https://www.fea.usp.br/economia) at the University of São Paulo (USP), where I also completed my bachelor’s degree.  
+My research lies at the intersection of international trade and economic development. I combine applied microeconomic methods with macroeconomic theory to address policy-relevant questions. Much of my current work investigates the consequences of trade shocks for development outcomes such as structural change, mortality, and crime. My academic work has been published in *Health Economics*, *Metroeconomica*, and *Structural Change and Economic Dynamics*. Details on my ongoing projects can be found on the [research](research) page.  
 
-My research focuses on international trade and economic development, combining applied microeconomic methods with macroeconomic theory to explore policy-relevant questions. My current work examines the effects of trade shocks on various development outcomes, including structural change, mortality, and crime. My academic work has been published in *Health Economics*, *Metroeconomica*, and *Structural Change and Economic Dynamics*, and you can find more information about my ongoing projects on the [research](research) page.  
-
-Teaching has been a central part of my academic journey. You can find more about my experience as both an instructor and a teaching assistant on the [teaching](teaching) page.  
-
-For office hours in the Spring semester, please access this [page](https://cal.com/vcicero).  
+For office hours appointments during the fall semester, please visit this [page](https://cal.com/vcicero).  
