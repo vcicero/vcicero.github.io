@@ -20,13 +20,13 @@ Donkey business: trade, resource exploitation, and crime (with [Lucas Corrêa-Di
 
 How much is fiscal consolidation offset by increases in social safety net spending? Evidence from the 2011 Budget Control Act (with [Tim Komarek](https://sites.google.com/site/timkomarek/) and Kendall Stephenson) Revision requested at *The B.E. Journal of Economic Analysis and Policy* [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915048){:.btn--research}
 
+The consumption side of trade shocks: inequality dynamics and luxury imports (with [Laura Heras-Recuero](https://lauraherasrec.github.io/)) Under Review [PDF](https://osf.io/preprints/socarxiv/9kh2g_v1){: .btn--research}
+
 Resource boom, export composition, concentration, and sophistication: evidence from Brazilian local economies. Submitted [PDF](/files/pdf/research/RB_JMP_Cicero_draft.pdf){: .btn--research}
 
-The Consumption Side of Trade Shocks: Inequality Dynamics and Luxury Imports (with [Laura Heras-Recuero](https://lauraherasrec.github.io/)) Under Review [PDF](https://osf.io/preprints/socarxiv/9kh2g_v1){: .btn--research}
+Declining federal spending and the social safety net: evidence from the Budget Control Act of 2011 (with [Tim Komarek](https://sites.google.com/site/timkomarek/)) Submitted [PDF](/files/pdf/research/bca_kc.pdf){:.btn--research}
 
-Declining Federal Spending and the Social Safety Net: Evidence from the Budget Control Act of 2011 (with [Tim Komarek](https://sites.google.com/site/timkomarek/)) Submitted [PDF](/files/pdf/research/bca_kc.pdf){:.btn--research}
-
-Great Expectations: Electoral Accountability After Economic Shocks (with [Iasmin Goes](https://www.iasmingoes.com/)) [PDF](https://osf.io/preprints/osf/kvwph_v1){: .btn--research}
+Great expectations: electoral accountability after economic shocks (with [Iasmin Goes](https://www.iasmingoes.com/)) [PDF](https://osf.io/preprints/osf/kvwph_v1){: .btn--research}
 
 <span style="font-size:1.25em; font-weight:bold;"> Publications and Accepted </span>
 
