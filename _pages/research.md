@@ -18,7 +18,7 @@ author_profile: true
 
 Donkey business: trade, resource exploitation, and crime (with [Lucas Corrêa-Dias](https://lucasccdias.github.io/)) Revision requested at *Journal of the European Economic Association* [PDF](https://osf.io/preprints/osf/qreum){: .btn--research}
 
-How much is fiscal consolidation offset by increases in social safety net spending? Evidence from the 2011 Budget Control Act (with [Tim Komarek](https://sites.google.com/site/timkomarek/) and Kendall Stephenson) Revision requested at *The B.E. Journal of Economic Analysis and Policy* [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915048){:.btn--research}
+How much is fiscal consolidation offset by increases in social safety net spending? Evidence from the 2011 Budget Control Act (with [Tim Komarek](https://sites.google.com/site/timkomarek/) and Kendall Stephenson) Resubmitted at *The B.E. Journal of Economic Analysis and Policy* [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915048){:.btn--research}
 
 Resource boom, export composition, concentration, and sophistication: evidence from Brazilian local economies [PDF](/files/pdf/research/RB_JMP_Cicero_draft.pdf){: .btn--research}
 
