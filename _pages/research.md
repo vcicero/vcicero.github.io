@@ -28,7 +28,8 @@ Great expectations: electoral accountability after economic shocks (with [Iasmin
 
 <span style="font-size:1.25em; font-weight:bold;"> Publications and Accepted </span>
 
-The consumption side of trade shocks: inequality dynamics and luxury imports (with [Laura Heras-Recuero](https://lauraherasrec.github.io/)) Accepted at *Journal of Development Economics* [PDF](https://osf.io/preprints/socarxiv/9kh2g_v2){: .btn--research}
+The consumption side of trade shocks: inequality dynamics and luxury imports (with [Laura Heras-Recuero](https://lauraherasrec.github.io/)) *Journal of Development Economics* 179 (2026),
+103663. [Published Version](https://doi.org/10.1016/j.jdeveco.2025.103663){: .btn--research} [WP Version](https://osf.io/preprints/socarxiv/9kh2g_v2){: .btn--research}
 
 Institutional changes, effective demand, and inequality: a structuralist model of secular stagnation (with [Daniele Tavani](https://www.danieletavani.com/)). Forthcoming at *Metroeconomica*. [Published Version](http://doi.org/10.1111/meca.12499){: .btn--research} [WP Version](/files/pdf/research/SecularStagnation_CT_revised.pdf){: .btn--research}
 
