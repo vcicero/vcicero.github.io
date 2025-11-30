@@ -20,11 +20,11 @@ Donkey business: trade, resource exploitation, and crime (with [Lucas Corrêa-Di
 
 How much is fiscal consolidation offset by increases in social safety net spending? Evidence from the 2011 Budget Control Act (with [Tim Komarek](https://sites.google.com/site/timkomarek/) and Kendall Stephenson) Resubmitted at *The B.E. Journal of Economic Analysis and Policy* [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915048){:.btn--research}
 
+Great expectations: electoral accountability after economic shocks (with [Iasmin Goes](https://www.iasmingoes.com/)) Under review [PDF](https://osf.io/preprints/osf/kvwph_v2){: .btn--research}
+
 Resource boom, export composition, concentration, and sophistication: evidence from Brazilian local economies [PDF](/files/pdf/research/RB_JMP_Cicero_draft.pdf){: .btn--research}
 
-Declining federal spending and the social safety net: evidence from the Budget Control Act of 2011 (with [Tim Komarek](https://sites.google.com/site/timkomarek/)) [PDF](/files/pdf/research/bca_kc.pdf){:.btn--research}
-
-Great expectations: electoral accountability after economic shocks (with [Iasmin Goes](https://www.iasmingoes.com/)) [PDF](https://osf.io/preprints/osf/kvwph_v1){: .btn--research}
+Declining federal spending and the social safety net: evidence from the Budget Control Act of 2011 (with [Tim Komarek](https://sites.google.com/site/timkomarek/))[PDF](/files/pdf/research/bca_kc.pdf){:.btn--research}
 
 <span style="font-size:1.25em; font-weight:bold;"> Publications and Accepted </span>
 
