@@ -18,8 +18,6 @@ author_profile: true
 
 Donkey business: trade, resource exploitation, and crime (with [Lucas Corrêa-Dias](https://lucasccdias.github.io/)) Revision requested at *Journal of the European Economic Association* [PDF](https://osf.io/preprints/osf/qreum){: .btn--research}
 
-How much is fiscal consolidation offset by increases in social safety net spending? Evidence from the 2011 Budget Control Act (with [Tim Komarek](https://sites.google.com/site/timkomarek/) and Kendall Stephenson) Resubmitted at *The B.E. Journal of Economic Analysis and Policy* [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915048){:.btn--research}
-
 Great expectations: electoral accountability after economic shocks (with [Iasmin Goes](https://www.iasmingoes.com/)) Under review [PDF](https://osf.io/preprints/osf/kvwph_v2){: .btn--research}
 
 Resource boom, export composition, concentration, and sophistication: evidence from Brazilian local economies [PDF](/files/pdf/research/RB_JMP_Cicero_draft.pdf){: .btn--research}
@@ -27,6 +25,8 @@ Resource boom, export composition, concentration, and sophistication: evidence f
 Declining federal spending and the social safety net: evidence from the Budget Control Act of 2011 (with [Tim Komarek](https://sites.google.com/site/timkomarek/))[PDF](/files/pdf/research/bca_kc.pdf){:.btn--research}
 
 <span style="font-size:1.25em; font-weight:bold;"> Publications and Accepted </span>
+
+How much is fiscal consolidation offset by increases in social safety net spending? Evidence from the 2011 Budget Control Act (with [Tim Komarek](https://sites.google.com/site/timkomarek/) and Kendall Stephenson) Accepted at *The B.E. Journal of Economic Analysis and Policy* [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915048){:.btn--research}
 
 The consumption side of trade shocks: inequality dynamics and luxury imports (with [Laura Heras-Recuero](https://lauraherasrec.github.io/)) *Journal of Development Economics* 179 (2026),
 103663. [Published Version](https://doi.org/10.1016/j.jdeveco.2025.103663){: .btn--research} [WP Version](https://osf.io/preprints/socarxiv/9kh2g_v2){: .btn--research}
