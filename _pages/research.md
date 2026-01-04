@@ -26,7 +26,7 @@ Declining federal spending and the social safety net: evidence from the Budget C
 
 <span style="font-size:1.25em; font-weight:bold;"> Publications and Accepted </span>
 
-How much is fiscal consolidation offset by increases in social safety net spending? Evidence from the 2011 Budget Control Act (with [Tim Komarek](https://sites.google.com/site/timkomarek/) and Kendall Stephenson) Accepted at *The B.E. Journal of Economic Analysis and Policy* [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915048){:.btn--research}
+How much is fiscal consolidation offset by increases in social safety net spending? Evidence from the 2011 Budget Control Act (with [Tim Komarek](https://sites.google.com/site/timkomarek/) and Kendall Stephenson) Forthcoming at *The B.E. Journal of Economic Analysis and Policy*  [Published Version](https://doi.org/10.1515/bejeap-2025-0073){: .btn--research} [WP Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915048){:.btn--research}
 
 The consumption side of trade shocks: inequality dynamics and luxury imports (with [Laura Heras-Recuero](https://lauraherasrec.github.io/)) *Journal of Development Economics* 179 (2026),
 103663. [Published Version](https://doi.org/10.1016/j.jdeveco.2025.103663){: .btn--research} [WP Version](https://osf.io/preprints/socarxiv/9kh2g_v2){: .btn--research}
