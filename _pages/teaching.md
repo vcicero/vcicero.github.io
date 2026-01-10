@@ -12,7 +12,14 @@ title: "Teaching"
   gtag('config', 'G-ETZN97YVKW');
 </script>
 
-I have served as the instructor of record for several undergraduate courses, including international economics and finance, intermediate microeconomics, and the history of economic thought, as well as a *PhD-level course* on heterodox approaches to economics. Currently, I am teaching intermediate microeconomics and the history of economic thought for undergraduate students. Additionally, I have worked as a teaching assistant for both graduate and introductory economics courses at CSU, and for various undergraduate and graduate courses at the University of São Paulo.
+I have served as the instructor of record for several undergraduate courses, including international trade and finance, intermediate microeconomics, and the history of economic thought, as well as a *PhD-level course* on heterodox approaches to economics. Currently, I am teaching international economics and introduction to statistics. Additionally, I have worked as a teaching assistant for both graduate and introductory economics courses at CSU, and for various undergraduate and graduate courses at the University of São Paulo.
+
+# Denison University
+
+## Instructor
+- Undergraduate
+    - GC 301: Global Trade and Financial Market (Spring 2026, Fall 2025)
+    - [Syllabus](/files/pdf/teaching/GC301_02_Spring26_Syllabus_Cicero.pdf)
 
 # Colorado State University
 
