@@ -18,7 +18,7 @@ author_profile: true
 
 Donkey business: trade, resource exploitation, and crime (with [Lucas Corrêa-Dias](https://lucasccdias.github.io/)) Revision requested at *Journal of the European Economic Association* [PDF](https://osf.io/preprints/osf/qreum){: .btn--research}
 
-Great expectations: electoral accountability after economic shocks (with [Iasmin Goes](https://www.iasmingoes.com/)) Under review [PDF](https://osf.io/preprints/osf/kvwph_v2){: .btn--research}
+Great expectations: electoral accountability after economic shocks (with [Iasmin Goes](https://www.iasmingoes.com/)) Submitted [PDF](https://osf.io/preprints/osf/kvwph_v3){: .btn--research}
 
 Resource boom, export composition, concentration, and sophistication: evidence from Brazilian local economies [PDF](/files/pdf/research/RB_JMP_Cicero_draft.pdf){: .btn--research}
 
