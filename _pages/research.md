@@ -16,13 +16,13 @@ author_profile: true
 
 <span style="font-size:1.25em; font-weight:bold;">Working Papers</span>
 
-Donkey business: trade, resource exploitation, and crime (with [Lucas Corrêa-Dias](https://lucasccdias.github.io/)) Revisions requested (2nd round) at the *Journal of the European Economic Association* [PDF](https://osf.io/preprints/osf/qreum){: .btn--research}
+Donkey business: trade, resource exploitation, and crime (with [Lucas Corrêa-Dias](https://lucasccdias.github.io/)). Revisions requested (2nd round) at the *Journal of the European Economic Association*. [PDF](https://osf.io/preprints/osf/qreum){: .btn--research}
 
-Great expectations: electoral accountability after economic shocks (with [Iasmin Goes](https://www.iasmingoes.com/)) Submitted [PDF](https://osf.io/preprints/osf/kvwph_v3){: .btn--research}
+Great expectations: electoral accountability after economic shocks (with [Iasmin Goes](https://www.iasmingoes.com/)). Under review [PDF](https://osf.io/preprints/osf/kvwph_v3){: .btn--research}
 
-Inequality, the demonstration effect, and the income elasticity of imports: a structuralist account of the external constraint (with [Laura Heras-Recuero](https://lauraherasrec.github.io/)) MADE/USP Working Paper [PDF](https://madeusp.com.br/wp-content/uploads/2026/07/wp42-made.pdf){: .btn--research}
+Inequality, the demonstration effect, and the income elasticity of imports: a structuralist account of the external constraint (with [Laura Heras-Recuero](https://lauraherasrec.github.io/)). MADE/USP Working Paper. Submitted [PDF](https://madeusp.com.br/wp-content/uploads/2026/07/wp42-made.pdf){: .btn--research}
 
-Resource boom, export composition, concentration, and sophistication: evidence from Brazilian local economies [PDF](/files/pdf/research/RB_JMP_Cicero_draft.pdf){: .btn--research}
+Resource boom, export composition, concentration, and sophistication: evidence from Brazilian local economies. [PDF](/files/pdf/research/RB_JMP_Cicero_draft.pdf){: .btn--research}
 
 <span style="font-size:1.25em; font-weight:bold;"> Publications and Accepted </span>
 
