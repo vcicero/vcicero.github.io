@@ -18,8 +18,10 @@ I have served as the instructor of record for several undergraduate courses, inc
 
 ## Instructor
 - Undergraduate
-    - GC 301: Global Trade and Financial Market (Spring 2026, Fall 2025)
-    - [Syllabus](/files/pdf/teaching/GC301_02_Spring26_Syllabus_Cicero.pdf)
+    - GC 301: Global Trade and Financial Market (Fall 2026, Spring 2026, Fall 2025)
+    - [Syllabus](/files/pdf/teaching/GC301_Fall2026_Syllabus_Cicero.pdf)
+    - GC 202: Business Statistics (Fall 2026, Spring 2026)
+    - [Syllabus](/files/pdf/teaching/GC202_Fall2026_Syllabus_Cicero.pdf)
 
 # Colorado State University
 
