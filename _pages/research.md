@@ -20,7 +20,7 @@ Donkey business: trade, resource exploitation, and crime (with [Lucas Corrêa-Di
 
 Great expectations: electoral accountability after economic shocks (with [Iasmin Goes](https://www.iasmingoes.com/)). Under review [PDF](https://osf.io/preprints/osf/kvwph_v3){: .btn--research}
 
-Inequality, the demonstration effect, and the income elasticity of imports: a structuralist account of the external constraint (with [Laura Heras-Recuero](https://lauraherasrec.github.io/)). MADE/USP Working Paper. Submitted [PDF](https://madeusp.com.br/wp-content/uploads/2026/07/wp42-made.pdf){: .btn--research}
+Inequality, the demonstration effect, and the income elasticity of imports: a structuralist account of the external constraint (with [Laura Heras-Recuero](https://lauraherasrec.github.io/)). MADE/USP Working Paper. Under review [PDF](https://madeusp.com.br/wp-content/uploads/2026/07/wp42-made.pdf){: .btn--research}
 
 Resource boom, export composition, concentration, and sophistication: evidence from Brazilian local economies. [PDF](/files/pdf/research/RB_JMP_Cicero_draft.pdf){: .btn--research}
 
