@@ -24,6 +24,8 @@ Inequality, the demonstration effect, and the income elasticity of imports: a st
 
 Resource boom, export composition, concentration, and sophistication: evidence from Brazilian local economies. [PDF](/files/pdf/research/RB_JMP_Cicero_draft.pdf){: .btn--research}
 
+Size matters: wealth accumulation and conflict in a Classical--Post-Keynesian framework (with Gilberto Tadeu Lima). Submitted [PDF](https://madeusp.com.br/wp-content/uploads/){: .btn--research}
+
 <span style="font-size:1.25em; font-weight:bold;"> Publications and Accepted </span>
 
 How much is fiscal consolidation offset by increases in social safety net spending? Evidence from the 2011 Budget Control Act (with [Tim Komarek](https://sites.google.com/site/timkomarek/) and Kendall Stephenson) *The B.E. Journal of Economic Analysis and Policy* 26:2 (2026), 751-762 [Published Version](https://doi.org/10.1515/bejeap-2025-0073){: .btn--research} [WP Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915048){:.btn--research}
@@ -43,8 +45,6 @@ On the government growth (with [Daniel Centurião](https://danielcenturiao.com/)
 Regional export composition and economic growth: the multi-regional Thirlwall's Law
 
 Short-Term Challenges of Long-Term Growth: Gendered Consequences of Infrastructure Projects in Brazil (with Débora Nunes)
-
-Size matters: wealth accumulation and conflict in a Classical model (with Gilberto Tadeu Lima)
 
 Tip Credit effects on employment, earnings, and establishments (with Sammy Zahran, David Mushinski, and [Sayorn Chin](https://schinlfc.github.io/))
 
