@@ -22,9 +22,9 @@ Great expectations: electoral accountability after economic shocks (with [Iasmin
 
 Inequality, the demonstration effect, and the income elasticity of imports: a structuralist account of the external constraint (with [Laura Heras-Recuero](https://lauraherasrec.github.io/)). MADE/USP Working Paper. Under review [PDF](https://madeusp.com.br/wp-content/uploads/2026/07/wp42-made.pdf){: .btn--research}
 
-Resource boom, export composition, concentration, and sophistication: evidence from Brazilian local economies. [PDF](/files/pdf/research/RB_JMP_Cicero_draft.pdf){: .btn--research}
+Size matters: wealth accumulation and conflict in a Classical--Post-Keynesian framework (with Gilberto Tadeu Lima). Submitted [PDF](https://ideas.repec.org/p/spa/wpaper/2026wpecon28.html){: .btn--research}
 
-Size matters: wealth accumulation and conflict in a Classical--Post-Keynesian framework (with Gilberto Tadeu Lima). Submitted [PDF](https://madeusp.com.br/wp-content/uploads/){: .btn--research}
+Resource boom, export composition, concentration, and sophistication: evidence from Brazilian local economies. [PDF](/files/pdf/research/RB_JMP_Cicero_draft.pdf){: .btn--research}
 
 <span style="font-size:1.25em; font-weight:bold;"> Publications and Accepted </span>
 
@@ -40,13 +40,15 @@ Functional distribution of income as a determinant of importing behavior: An emp
 
 <span style="font-size:1.25em; font-weight:bold;"> Selected Works in Progress</span>
 
+Stuck in the swamp: automation and the Everglades Agricultural Area (with [Brendan Brundage](https://brendanbrundage.github.io/))
+
 On the government growth (with [Daniel Centurião](https://danielcenturiao.com/))
 
 Regional export composition and economic growth: the multi-regional Thirlwall's Law
 
 Short-Term Challenges of Long-Term Growth: Gendered Consequences of Infrastructure Projects in Brazil (with Débora Nunes)
 
-Tip Credit effects on employment, earnings, and establishments (with Sammy Zahran, David Mushinski, and [Sayorn Chin](https://schinlfc.github.io/))
+Tip Credit effects on employment, earnings, and establishments (with Sammy Zahran and [Sayorn Chin](https://schinlfc.github.io/))
 
 Trade liberalization and income inequality: evidence from Brazil (with Sammy Zahran and [Daniele Tavani](https://www.danieletavani.com/))
 
