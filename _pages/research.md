@@ -28,11 +28,11 @@ Resource boom, export composition, concentration, and sophistication: evidence f
 
 <span style="font-size:1.25em; font-weight:bold;"> Publications and Accepted </span>
 
-How much is fiscal consolidation offset by increases in social safety net spending? Evidence from the 2011 Budget Control Act (with [Tim Komarek](https://sites.google.com/site/timkomarek/) and Kendall Stephenson) *The B.E. Journal of Economic Analysis and Policy* 26:2 (2026), 751-762 [Published Version](https://doi.org/10.1515/bejeap-2025-0073){: .btn--research} [WP Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915048){:.btn--research}
-
 The consumption side of trade shocks: inequality dynamics and luxury imports (with [Laura Heras-Recuero](https://lauraherasrec.github.io/)) *Journal of Development Economics* 179 (2026), 103663. [Published Version](https://doi.org/10.1016/j.jdeveco.2025.103663){: .btn--research} [VoxDev](https://voxdev.org/topic/trade/how-chinas-demand-boom-reshaped-inequality-and-consumption-brazil){: .btn--research} [WP Version](https://osf.io/preprints/socarxiv/9kh2g_v2){: .btn--research}
 
-Institutional changes, effective demand, and inequality: a structuralist model of secular stagnation (with [Daniele Tavani](https://www.danieletavani.com/)). Forthcoming at *Metroeconomica*. [Published Version](http://doi.org/10.1111/meca.12499){: .btn--research} [WP Version](/files/pdf/research/SecularStagnation_CT_revised.pdf){: .btn--research}
+How much is fiscal consolidation offset by increases in social safety net spending? Evidence from the 2011 Budget Control Act (with [Tim Komarek](https://sites.google.com/site/timkomarek/) and Kendall Stephenson) *The B.E. Journal of Economic Analysis and Policy* 26:2 (2026), 751-762 [Published Version](https://doi.org/10.1515/bejeap-2025-0073){: .btn--research} [WP Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915048){:.btn--research}
+
+Institutional changes, effective demand, and inequality: a structuralist model of secular stagnation (with [Daniele Tavani](https://www.danieletavani.com/)). *Metroeconomica* 77:4 (2026), 392-409 [Published Version](http://doi.org/10.1111/meca.12499){: .btn--research} [WP Version](/files/pdf/research/SecularStagnation_CT_revised.pdf){: .btn--research}
 
 Trade liberalization and mortality rates: evidence of pro-cyclical mortality from Brazil (with [Lucas Corrêa-Dias](https://lucasccdias.github.io/) and Sammy Zahran), *Health Economics* 34:3 (2025), 392-414. [Published Version](https://doi.org/10.1002/hec.4915){: .btn--research} [WP Version](/files/pdf/research/manuscript_Trade_Mortality_CDZ_wp.pdf){: .btn--research}
 
